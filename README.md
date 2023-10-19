@@ -13,7 +13,7 @@
 *...
 
 ### Screen-shots 
-![Source-code-with-JUnit](https://github.com/PhucLHSE/math-util-mvn.git)
+![Source-code-with-JUnit](D:\University\SWT301\math-util-mvn\screenshots)
 
 ####Connect me via PhucLHSE173083@fpt.edu.vn
 
